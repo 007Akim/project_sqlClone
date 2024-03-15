@@ -1,0 +1,66 @@
+name,Id,Intelligence,Strength,Speed,Durability,Power,Combat,Overall_ps,race,hero_rank
+Doomsday,230,75,100,67,100,100,90,532,Alien,1
+Century,167,88,80,53,64,100,100,485,Alien,2
+"Silver Surfer",598,56,100,100,90,100,32,478,Alien,3
+Ardina,42,63,100,100,80,100,25,468,Alien,4
+Indigo,342,75,63,50,50,100,50,388,Alien,5
+"Bill Harken",84,63,36,33,60,27,40,259,Alpha,1
+"Cameron Hicks",147,50,10,23,28,51,70,232,Alpha,2
+"Nina Theroux",493,63,5,8,10,68,20,174,Alpha,3
+"Gary Bell",277,63,5,8,10,54,10,150,Alpha,4
+"Rachel Pirzad",539,63,4,8,10,52,10,147,Alpha,5
+Amazo,20,63,100,83,100,100,100,546,Android,1
+Vision,697,100,72,54,95,100,70,491,Android,2
+Brainiac,136,100,95,63,90,60,75,483,Android,3
+Ultron,680,88,83,42,100,100,64,477,Android,4
+T-1000,649,75,34,33,100,100,75,417,Android,5
+Thor,659,69,100,83,100,100,100,552,Asgardian,1
+"Thor Girl",660,75,83,70,84,100,70,482,Asgardian,2
+Sif,594,63,90,67,80,100,70,470,Asgardian,3
+Hela,321,63,100,46,100,100,45,454,Asgardian,4
+Loki,414,88,63,46,85,100,60,442,Asgardian,5
+Aquaman,38,81,85,79,80,100,80,505,Atlantean,1
+Namor,481,69,95,58,70,73,85,450,Atlantean,2
+Mera,444,56,62,79,60,92,80,429,Atlantean,3
+Siren,602,56,62,79,60,92,60,409,Atlantean,4
+Aqualad,37,63,44,42,75,89,60,373,Atlantean,5
+"Cyborg Superman",195,75,93,92,100,100,80,540,Cyborg,1
+T-X,652,75,63,29,85,100,80,432,Cyborg,2
+T-850,651,75,80,25,90,83,75,428,Cyborg,3
+Cyborg,194,75,53,42,85,71,64,390,Cyborg,4
+"Darth Vader",208,69,48,33,35,100,100,385,Cyborg,5
+Spawn,612,75,60,50,90,100,95,470,Demon,1
+Etrigan,246,50,85,17,100,100,50,402,Demon,2
+"Ghost Rider",280,50,55,25,100,100,60,390,Demon,3
+Hellboy,322,63,53,21,95,73,75,380,Demon,4
+Blackout,109,63,32,45,80,45,65,330,Demon,5
+"Man of Miracles",426,100,100,100,100,100,100,600,"God / Eternal",1
+Beyonder,80,100,100,100,100,100,84,584,"God / Eternal",2
+Spectre,613,88,100,100,100,100,70,558,"God / Eternal",3
+Odin,498,100,83,67,95,100,90,535,"God / Eternal",4
+"Mister Mxyzptlk",459,100,85,100,100,100,50,535,"God / Eternal",5
+"Captain Marvel",156,88,100,88,95,100,75,546,Human,1
+Nova,496,100,85,75,100,100,80,540,Human,2
+"Cheetah III",174,88,100,88,80,78,95,529,Human,3
+"Iron Man",346,100,85,58,85,100,64,492,Human,4
+"War Machine",703,63,80,63,100,100,85,491,Human,5
+Hulk,332,88,100,63,100,98,85,534,"Human / Radiation",1
+"Captain Atom",150,81,93,83,90,100,80,527,"Human / Radiation",2
+Abomination,4,63,80,53,90,62,95,443,"Human / Radiation",3
+"Red Hulk",547,50,100,47,85,82,75,439,"Human / Radiation",4
+Thing,658,75,84,21,100,38,80,398,"Human / Radiation",5
+"General Zod",278,94,100,96,100,100,95,585,Kryptonian,1
+Superboy-Prime,642,94,100,100,100,100,85,579,Kryptonian,2
+Superman,644,94,100,100,100,100,85,579,Kryptonian,3
+Supergirl,643,94,100,100,100,100,75,569,Kryptonian,4
+"Power Girl",524,94,100,100,100,100,75,569,Kryptonian,5
+Phoenix,517,100,100,83,100,100,80,563,Mutant,1
+Sentry,583,75,100,100,84,100,40,499,Mutant,2
+Apocalypse,35,100,100,33,100,100,60,493,Mutant,3
+Onslaught,504,88,100,33,100,100,55,476,Mutant,4
+Deadpool,213,69,32,50,100,100,100,451,Mutant,5
+Venompool,690,69,57,63,100,100,100,489,Symbiote,1
+Anti-Venom,34,75,60,65,90,96,84,470,Symbiote,2
+Carnage,162,63,63,70,84,88,90,458,Symbiote,3
+Venom,687,75,57,65,84,86,84,451,Symbiote,4
+Toxin,672,75,80,42,85,97,70,449,Symbiote,5

@@ -1,0 +1,400 @@
+Id,Gender,Race,Height,Weight
+1,Male,Human,203 cm,441 kg
+2,Male,Icthyo Sapien,191 cm,65 kg
+3,Male,Ungaran,185 cm,90 kg
+4,Male,Human / Radiation,203 cm,441 kg
+5,Male,Cosmic Entity,0 cm,0 kg
+6,Male,Human,193 cm,122 kg
+8,Male,Human,185 cm,88 kg
+10,Male,Human,178 cm,81 kg
+13,Male,Cyborg,193 cm,90 kg
+15,Male,Human,0 cm,0 kg
+17,Male,Human,178 cm,72 kg
+18,Male,Xenomorph XX121,244 cm,169 kg
+20,Male,Android,257 cm,173 kg
+23,Male,Vampire,0 cm,0 kg
+25,Female,Mutant,165 cm,57 kg
+28,Male,Human,183 cm,83 kg
+30,Male,Human,211 cm,122 kg
+31,Male,Human,183 cm,86 kg
+32,Male,God / Eternal,0 meters,0 kg
+34,Male,Symbiote,229 cm,358 kg
+35,Male,Mutant,213 cm,135 kg
+37,Male,Atlantean,178 cm,106 kg
+38,Male,Atlantean,185 cm,146 kg
+39,Female,Human,175 cm,63 kg
+40,Male,Mutant,183 cm,68 kg
+42,Female,Alien,193 cm,98 kg
+48,Male,Mutant,183 cm,101 kg
+49,Male,God / Eternal,198 cm,126 kg
+53,Male,Human,183 cm,81 kg
+56,Female,Mutant,180 cm,63 kg
+57,Male,Neyaphem,183 cm,67 kg
+58,Male,Human,0 cm,0 kg
+60,Male,Human,203 cm,180 kg
+61,Male,Human,183 cm,77 kg
+63,Female,Human,170 cm,57 kg
+66,Female,Human,165 cm,52 kg
+69,Male,Human,178 cm,77 kg
+70,Male,Human,188 cm,95 kg
+71,Male,Human,178 cm,79 kg
+73,Female,Human,178 cm,0 kg
+75,Male,Mutant,180 cm,181 kg
+76,Male,Human,173 cm,68 kg
+80,Male,God / Eternal,0 cm,0 kg
+81,Female,New God,188 cm,135 kg
+84,Male,Alpha,0 cm,0 kg
+87,Female,Cyborg,0 cm,0 kg
+92,Male,Mutant,198 cm,124 kg
+93,Male,Bizarro,191 cm,155 kg
+96,Male,Inhuman,188 cm,95 kg
+97,Female,Metahuman,170 cm,59 kg
+98,Female,Human,165 cm,58 kg
+99,Female,Human,178 cm,54 kg
+100,Male,God / Eternal,0 cm,0 kg
+102,Male,Human,183 cm,86 kg
+105,Male,Human,188 cm,92 kg
+106,Male,Human,183 cm,90 kg
+107,Female,Human,170 cm,59 kg
+109,Male,Demon,191 cm,104 kg
+111,Male,Alien,188 cm,88 kg
+112,Male,Vampire,188 cm,97 kg
+115,Female,Mutant,165 cm,56 kg
+120,Female,Human,218 cm,495 kg
+121,Male,Mutant,0 cm,0 kg
+126,Male,Human,0 cm,0 kg
+127,Male,Human / Clone,183 cm,0 kg
+130,Female,Mutant,165 cm,55 kg
+136,Male,Android,198 cm,135 kg
+139,Male,Mutant,193 cm,0 kg
+140,Female,Human,157 cm,52 kg
+141,Male,Human,183 cm,90 kg
+142,Female,Human,170 cm,59 kg
+144,Male,Human,0 cm,0 kg
+145,Male,Mutant,203 cm,158 kg
+147,Male,Alpha,0 cm,0 kg
+149,Male,Human,188 cm,108 kg
+150,Male,Human / Radiation,193 cm,90 kg
+151,Male,Human,198 cm,116 kg
+152,Male,Human,0 cm,0 kg
+154,Male,Human,0 cm,0 kg
+156,Male,Human,193 cm,101 kg
+157,Female,Human-Kree,180 cm,74 kg
+158,Male,Human,175 cm,74 kg
+160,Male,God / Eternal,0 cm,0 kg
+162,Male,Symbiote,185 cm,86 kg
+165,Female,Human,175 cm,61 kg
+167,Male,Alien,201 cm,97 kg
+169,Male,Mutant,175 cm,63 kg
+172,Female,Human,163 cm,50 kg
+174,Female,Human,175 cm,54 kg
+177,Male,Human,183 cm,170 kg
+181,Male,Human,178 cm,78 kg
+185,Male,Mutant,226 cm,225 kg
+186,Female,Mutant,183 cm,67 kg
+188,Male,Human,183 cm,99 kg
+191,Female,Inhuman,168 cm,50 kg
+194,Male,Cyborg,198 cm,173 kg
+195,Male,Cyborg,0 cm,0 kg
+196,Male,Mutant,191 cm,88 kg
+201,Male,Human,183 cm,90 kg
+202,Male,Human,185 cm,81 kg
+204,Male,New God,267 cm,817 kg
+206,Female,Mutant,168 cm,56 kg
+207,Male,Dathomirian Zabrak,170 cm,0 kg
+208,Male,Cyborg,198 cm,135 kg
+209,Male,Human,122 cm,27 kg
+210,Male,Android,0 cm,0 kg
+211,Female,Mutant,173 cm,52 kg
+212,Male,Human,183 cm,90 kg
+213,Male,Mutant,188 cm,95 kg
+214,Male,Human,185 cm,91 kg
+215,Male,Cyborg,193 cm,178 kg
+216,Male,Human,193 cm,101 kg
+217,Male,Demon,185 cm,95 kg
+219,Male,Human,193 cm,90 kg
+221,Male,Human / Radiation,198 cm,171 kg
+222,Male,Human,201 cm,187 kg
+224,Male,Human,188 cm,89 kg
+225,Male,Human,175 cm,110 kg
+226,Male,Human,188 cm,81 kg
+227,Female,Human,173 cm,54 kg
+228,Male,Mutant,0 cm,0 kg
+230,Male,Alien,244 cm,412 kg
+233,Male,Human / Cosmic,0 cm,0 kg
+234,Male,Human / Altered,193 cm,306 kg
+236,Female,Human,168 cm,56 kg
+237,Male,Human,180 cm,74 kg
+238,Female,Human,175 cm,59 kg
+242,Female,Human,168 cm,57 kg
+245,Male,Human,168 cm,0 kg
+246,Male,Demon,193 cm,203 kg
+247,Male,Mutant,188 cm,95 kg
+248,Male,Alien,191 cm,106 kg
+249,Male,Mutant,183 cm,88 kg
+251,Male,Human,188 cm,108 kg
+253,Female,Kryptonian,0 cm,0 kg
+256,Male,Kakarantharaian,975 cm,18 tons
+259,Female,Mutant,173 cm,56 kg
+261,Male,Human,188 cm,91 kg
+263,Male,Human,180 cm,81 kg
+265,Male,Black Racer,183 cm,88 kg
+266,Male,Human,183 cm,86 kg
+267,Male,Human,157 cm,52 kg
+269,Male,Mutant,142 cm,45 kg
+273,Male,Cosmic Entity,876 cm,16 tons
+274,Male,Mutant,185 cm,81 kg
+275,Female,Zen-Whoberian,183 cm,77 kg
+277,Male,Alpha,0 cm,0 kg
+278,Male,Kryptonian,0 cm,0 kg
+280,Male,Demon,188 cm,99 kg
+285,Male,Strontian,198 cm,268 kg
+287,-,Kaiju,0 meters,
+289,Male,Saiyan,175 cm,62 kg
+294,Male,Gorilla,198 cm,270 kg
+296,Male,Human,178 cm,79 kg
+297,Male,Rodian,170 cm,0 kg
+298,Male,Human,188 cm,88 kg
+299,Male,Human,180 cm,83 kg
+303,Male,Flora Colossus,701 cm,4 tons
+305,Male,Human-Vuldarian,188 cm,95 kg
+306,Male,Human,188 cm,90 kg
+307,Male,Human,183 cm,79 kg
+308,Male,Human,188 cm,0 kg
+309,Female,Human,170 cm,63 kg
+310,Male,Human,0 cm,0 kg
+311,Male,Mutant,183 cm,79 kg
+313,Male,Human,191 cm,104 kg
+314,Female,Human,165 cm,57 kg
+320,Male,Human,180 cm,81 kg
+321,Female,Asgardian,213 cm,225 kg
+322,Male,Demon,259 cm,158 kg
+323,Female,Human,173 cm,61 kg
+325,Male,Demi-God,196 cm,146 kg
+327,Female,Human,0 cm,0 kg
+332,Male,Human / Radiation,244 cm,630 kg
+333,Male,Human / Radiation,178 cm,77 kg
+335,Female,Mutant,170 cm,58 kg
+336,Male,Symbiote,175 cm,77 kg
+338,Male,Eternal,183 cm,207 kg
+339,Male,Mutant,173 cm,65 kg
+340,Male,Human,170 cm,65 kg
+341,Male,Human,183 cm,79 kg
+342,Female,Alien,0 cm,0 kg
+343,Male,Mutant,180 cm,81 kg
+344,Female,Human / Radiation,168 cm,54 kg
+345,Male,Human,180 cm,79 kg
+346,Male,Human,198 cm,191 kg
+350,Male,Human,155 cm,79 kg
+351,Male,Human,71 cm,14 kg
+352,Male,Human,183 cm,0 kg
+353,Male,Human,178 cm,77 kg
+354,Male,Gungan,193 cm,0 kg
+355,Male,Human,0 cm,0 kg
+356,Female,Mutant,168 cm,52 kg
+357,Male,Human,0 cm,0 kg
+360,Female,Human,0 cm,0 kg
+361,Female,Human,170 cm,56 kg
+367,Male,Human,183 cm,0 kg
+370,Male,Human,196 cm,86 kg
+372,Female,Mutant,165 cm,52 kg
+373,Male,Human,188 cm,0 kg
+374,Male,Human,287 cm,855 kg
+375,Male,Mutant,0 cm,0 kg
+376,Male,Human,178 cm,81 kg
+380,Female,Human,0 cm,0 kg
+381,Female,Human,0 cm,0 kg
+382,Male,Human,0 cm,0 kg
+383,Male,Human,0 cm,0 kg
+384,Male,Human,0 cm,0 kg
+386,Male,Metahuman,244 cm,356 kg
+387,Female,Human,0 cm,0 kg
+388,Male,Bolovaxian,234 cm,324 kg
+389,Male,Animal,5 meters,
+390,Male,Animal,0 cm,0 kg
+391,Male,Human,201 cm,203 kg
+392,Male,Human,188 cm,97 kg
+394,Male,Human,191 cm,99 kg
+395,Male,Human,183 cm,106 kg
+396,Male,Kryptonian,64 cm,18 kg
+397,Male,Human,180 cm,79 kg
+398,Male,Human,0 cm,0 kg
+400,Female,Cyborg,175 cm,58 kg
+403,Male,Mutant,175 cm,59 kg
+404,Male,Mutant,0 cm,0 kg
+405,Male,Human,188 cm,95 kg
+410,-,Cosmic Entity,0 cm,0 kg
+412,Male,Human,203 cm,230 kg
+413,Male,Czarnian,229 cm,288 kg
+414,Male,Asgardian,193 cm,236 kg
+415,Male,Human,188 cm,36 kg
+416,Male,Human,198 cm,191 kg
+418,Male,Human,168 cm,77 kg
+419,Female,Human,0 cm,0 kg
+423,Male,Mutant,188 cm,86 kg
+426,-,God / Eternal,0 cm,0 kg
+427,Male,Human,0 cm,0 kg
+430,Male,Human,188 cm,97 kg
+431,Female,Human-Kree,168 cm,52 kg
+432,Male,Martian,201 cm,135 kg
+435,Male,Human / Altered,213 cm,0 kg
+441,Female,Inhuman,180 cm,59 kg
+444,Female,Atlantean,175 cm,72 kg
+445,Male,Android,196 cm,90 kg
+450,Male,Mutant,0 cm,0 kg
+456,Male,Human / Radiation,185 cm,81 kg
+457,Male,Human,183 cm,86 kg
+458,Male,Spartoi,0 cm,0 kg
+459,Male,God / Eternal,0 cm,0 kg
+460,Male,Human / Altered,196 cm,128 kg
+461,Male,Human,0 cm,0 kg
+462,Female,Human,175 cm,61 kg
+463,Male,Cyborg,366 cm,338 kg
+470,Male,Human,188 cm,101 kg
+475,Male,Mutant,188 cm,70 kg
+476,Male,Human,201 cm,158 kg
+479,Male,Human,180 cm,79 kg
+480,Female,Mutant,178 cm,54 kg
+481,Male,Atlantean,188 cm,125 kg
+485,Male,Human,168 cm,54 kg
+487,Female,Luphomoid,185 cm,83 kg
+488,Female,Mutant,0 cm,0 kg
+489,Male,Human,185 cm,99 kg
+491,Male,Human,178 cm,79 kg
+493,Female,Alpha,0 cm,0 kg
+496,Male,Human,185 cm,86 kg
+497,Female,Human / Cosmic,163 cm,59 kg
+498,Male,God / Eternal,206 cm,293 kg
+502,Male,Human,175 cm,69 kg
+503,-,Cosmic Entity,0 cm,0 kg
+504,Male,Mutant,305 cm,405 kg
+505,Female,Human,178 cm,59 kg
+508,Male,Human,0 cm,0 kg
+509,-,Parademon,0 cm,0 kg
+510,Male,Human,170 cm,117 kg
+514,Male,Human,157 cm,79 kg
+517,Female,Mutant,168 cm,52 kg
+518,Male,Mutant,183 cm,87 kg
+520,Male,Human,185 cm,80 kg
+522,Female,Human,168 cm,50 kg
+523,Female,Mutant,170 cm,52 kg
+524,Female,Kryptonian,180 cm,81 kg
+526,Male,Yautja,213 cm,234 kg
+527,Male,Mutant,183 cm,86 kg
+528,Male,Human,180 cm,81 kg
+529,Female,Mutant,180 cm,70 kg
+530,Male,Human,183 cm,90 kg
+531,Male,Human,180 cm,74 kg
+533,Male,God / Eternal,0 cm,0 kg
+535,Male,Human,188 cm,83 kg
+536,Male,Mutant,183 cm,79 kg
+538,Male,Human,193 cm,97 kg
+539,Female,Alpha,0 cm,0 kg
+540,Male,Human,178 cm,83 kg
+541,Male,Mutant,0 cm,0 kg
+542,Female,Human,165 cm,50 kg
+543,Male,Human,178 cm,70 kg
+545,Male,Human,180 cm,83 kg
+546,Male,Human,183 cm,81 kg
+547,Male,Human / Radiation,213 cm,630 kg
+549,Male,Human,165 cm,56 kg
+551,Male,Android,185 cm,146 kg
+555,Female,Human,297 cm,0 kg
+556,Male,Human / Radiation,196 cm,320 kg
+559,Male,Human,0 cm,0 kg
+561,Male,Human,178 cm,79 kg
+562,Male,Human,183 cm,101 kg
+563,Male,Human,165 cm,56 kg
+564,Male,Human,137 cm,38 kg
+565,Female,Human,0 cm,0 kg
+566,Male,Animal,122 cm,25 kg
+568,Male,Human,191 cm,104 kg
+569,Male,Human,168 cm,63 kg
+570,Male,Mutant,198 cm,171 kg
+572,Male,Human,185 cm,203 kg
+574,Male,Maiar,279 cm,0 kg
+576,Male,Human,183 cm,63 kg
+577,Male,Human,178 cm,74 kg
+578,Male,Clone,193 cm,113 kg
+579,Female,Mutant,170 cm,59 kg
+581,Male,Human,211 cm,310 kg
+582,Male,Mutant,0 cm,0 kg
+583,Male,Mutant,188 cm,87 kg
+585,Female,Talokite,173 cm,54 kg
+586,Female,Mutant,168 cm,50 kg
+587,Male,Human,178 cm,79 kg
+589,Female,Human,201 cm,315 kg
+590,Female,Human / Radiation,183 cm,153 kg
+591,Male,Human,175 cm,79 kg
+594,Female,Asgardian,188 cm,191 kg
+595,Female,Human,0 cm,0 kg
+598,Male,Alien,193 cm,101 kg
+600,Male,Human,0 cm,0 kg
+601,Male,Korugaran,201 cm,92 kg
+602,Female,Atlantean,175 cm,72 kg
+609,Male,Zombie,279 cm,437 kg
+611,Male,Human,188 cm,113 kg
+612,Male,Demon,211 cm,405 kg
+613,Male,God / Eternal,0 cm,0 kg
+615,Female,Human,0 cm,0 kg
+618,Female,Human,170 cm,54 kg
+619,Female,Human,165 cm,56 kg
+620,Male,Human,178 cm,74 kg
+623,Female,Human,178 cm,59 kg
+627,Male,Human-Vulcan,185 cm,81 kg
+628,Male,Mutant,183 cm,83 kg
+630,Male,Human-Spartoi,188 cm,79 kg
+632,Female,Tamaranean,193 cm,71 kg
+633,Female,Human,165 cm,62 kg
+634,Male,Mutant,170 cm,63 kg
+637,Male,New God,183 cm,91 kg
+638,Female,Mutant,180 cm,57 kg
+639,Male,Human,183 cm,0 kg
+640,Male,Mutant,173 cm,77 kg
+642,Male,Kryptonian,180 cm,77 kg
+643,Female,Kryptonian,165 cm,54 kg
+644,Male,Kryptonian,191 cm,101 kg
+645,Male,God / Eternal,0 cm,0 kg
+646,Male,Mutant,196 cm,47 kg
+649,Male,Android,183 cm,146 kg
+650,Male,Cyborg,0 cm,176 kg
+651,Male,Cyborg,0 cm,198 kg
+652,Female,Cyborg,0 cm,149 kg
+653,Male,Human,188 cm,99 kg
+655,Male,Eternal,201 cm,443 kg
+657,Male,Human,188 cm,101 kg
+658,Male,Human / Radiation,183 cm,225 kg
+659,Male,Asgardian,198 cm,288 kg
+660,Female,Asgardian,175 cm,143 kg
+666,Male,Human,185 cm,203 kg
+670,Male,Mutant,175 cm,76 kg
+671,Male,Symbiote,188 cm,97 kg
+672,Male,Symbiote,191 cm,117 kg
+677,Male,Inhuman,188 cm,86 kg
+680,Male,Android,206 cm,331 kg
+681,Male,Frost Giant,2 meters,58 tons
+686,Male,Saiyan,168 cm,73 kg
+687,Male,Symbiote,191 cm,117 kg
+689,Male,Symbiote,229 cm,334 kg
+690,Male,Symbiote,226 cm,0 kg
+692,Male,Human,178 cm,71 kg
+693,Female,Human,165 cm,54 kg
+696,Female,Human,137 cm,41 kg
+697,Male,Android,191 cm,135 kg
+699,Female,Human,175 cm,63 kg
+701,Male,Human,180 cm,79 kg
+702,Male,Human,183 cm,162 kg
+703,Male,Human,185 cm,95 kg
+707,Male,Mutant,218 cm,158 kg
+708,Female,Human,163 cm,50 kg
+711,Female,Human,0 cm,0 kg
+714,Male,Human,175 cm,117 kg
+717,Male,Mutant,160 cm,135 kg
+718,Female,Demi-God,165 cm,51 kg
+720,Female,Amazon,183 cm,74 kg
+723,Female,Mutant / Clone,155 cm,50 kg
+726,Male,Human,183 cm,83 kg
+727,Female,Human,165 cm,52 kg
+728,Male,Frost Giant,8 meters,0 kg
+729,Male,Yoda's species,66 cm,17 kg
+730,Female,Human,170 cm,57 kg
