@@ -18,6 +18,7 @@ The dataset used in this project was obtained from [API SuperHero](https://akaba
 - NumPy: Library used for numerical computations and data manipulation with arrays.
 - Requests: Library used for sending HTTP requests and fetching data from websites.
 - Regular Expressions (re): Used for pattern matching and text processing.
+- MySQL
 
 ## Project Structure
 
