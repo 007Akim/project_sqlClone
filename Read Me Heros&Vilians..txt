@@ -1,0 +1,40 @@
+Introduction: Today, we will be reviewing our project "Heroes and Villains" and reflecting on the challenges encountered during the transition from Python to SQL. This project revolves around an indie fighting game featuring unique characters with distinct abilities, which we plan to showcase at Comic Con.
+
+Summary of Content: Our presentation will highlight the development process of our indie fighting game, emphasizing its distinctive features and perks. We will provide insights into the conversion process from Python to SQL and discuss the visualization challenges faced during this transition. Additionally, we will showcase the integration of primary keys and other key aspects of SQL database management into our project.
+
+Tools and Libraries
+Python: Programming language used for data analysis and manipulation.
+Pandas: Library used for data manipulation and analysis with DataFrame structures.
+Matplotlib: Library used for creating plots and visualizations.
+Seaborn: Library used for creating attractive and informative statistical graphics.
+NumPy: Library used for numerical computations and data manipulation with arrays.
+Requests: Library used for sending HTTP requests and fetching data from websites.
+Regular Expressions (re): Used for pattern matching and text processing.
+Project Structure
+project_heroes_villains: Jupyter Notebook containing the main analysis code.
+README.md: This file providing an overview of the project.
+data: Directory containing the dataset used for analysis.
+slides: Project presentation
+Analysis Steps
+Data Loading and Preprocessing: The dataset is loaded into a DataFrame and cleaned as needed.
+Exploratory Data Analysis (EDA): Basic statistics and visualizations are used to understand the dataset's structure and distributions.
+Feature Engineering: Additional features are created or extracted from existing ones to facilitate analysis.
+Visualization: Various plots and graphs are generated to visualize trends, distributions, and relationships within the data.
+Insights and Interpretation: The findings from the analysis are summarized, and conclusions are drawn based on the observed patterns.
+Results and Findings
+Distribution of Superhero Attributes: Histograms and box plots reveal the distribution of different superhero attributes such as strength, speed, and intelligence.
+
+Critical Analysis: The conversion from a Python-based system to an SQL database presented several challenges, particularly in terms of data visualization and managing primary keys. Despite these obstacles, we successfully navigated the transition and produced a robust product. The project's outcome reflects our perseverance, resulting in a game with unique gameplay mechanics and engaging content.
+
+Conclusion: In conclusion, the journey from Python to SQL was met with challenges, but our team's dedication and expertise allowed us to overcome them and deliver a compelling indie fighting game. The distinct perks and features incorporated into the game make it an exciting addition to the Comic Con lineup, showcasing our commitment to innovation and creativity in game development.
+
+References: Pre-existing data from our previous project served as a foundation for the development of "Heroes and Villains," providing valuable insights and inspiration for our game mechanics and character design.
+
+Final Review: Before finalizing the report, we conducted a thorough review to ensure coherence and completeness across all sections. We verified the accuracy of references and adhered to the specified guidelines to ensure the report's quality and professionalism.  
+
+Future Work
+Incorporate additional datasets to enrich the analysis.
+Explore machine learning models for predictive analysis or classification tasks.
+Extend the analysis to include more in-depth character profiles and storylines.
+Author
+Élio Vieira & Akim Roumou
